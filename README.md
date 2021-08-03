@@ -19,4 +19,4 @@ Very simple library application. You can adding, deleting and editing informatio
     * yyyy - port,
     * kkkk - database name
 
-**6.** Run project
+**3.** Run project
